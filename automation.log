@@ -9,8 +9,7 @@
 2026-06-01 17:19:19,029 - ERROR - [WinError 3] The system cannot find the path specified: 'input_files'
 2026-06-01 17:20:21,770 - ERROR - [WinError 3] The system cannot find the path specified: 'notes'
 2026-06-01 17:29:47,394 - INFO - Moved: bird.jpg
-2026-06-01 17:29:47,398 - INFO - Moved: vk1.jpg
-2026-06-01 18:33:02,151 - INFO - Total Files Moved: 0
+2026-06-01 17:29:47,398 - INFO - Moved: vk1.jpg2026-06-01 18:33:02,151 - INFO - Total Files Moved: 0
 2026-06-01 18:37:00,054 - INFO - Total Files Moved: 0
 2026-06-01 18:42:15,401 - INFO - Moved: bird.jpg
 2026-06-01 18:42:15,416 - INFO - Moved: fruit.jpg
