@@ -1,0 +1,25 @@
+2026-06-01 17:07:01,537 - INFO - Moved: notes.txt
+2026-06-01 17:07:01,546 - INFO - Moved: virat.jpg
+2026-06-01 17:08:56,495 - ERROR - [WinError 3] The system cannot find the path specified: '1'
+2026-06-01 17:09:27,280 - ERROR - [WinError 3] The system cannot find the path specified: 'report.pdf'
+2026-06-01 17:13:09,036 - ERROR - [WinError 3] The system cannot find the path specified: 'input_folder'
+2026-06-01 17:14:18,675 - ERROR - [WinError 3] The system cannot find the path specified: 'virat'
+2026-06-01 17:14:39,330 - ERROR - [WinError 3] The system cannot find the path specified: 'report.pdf'
+2026-06-01 17:18:37,636 - ERROR - [WinError 3] The system cannot find the path specified: 'jpg'
+2026-06-01 17:19:19,029 - ERROR - [WinError 3] The system cannot find the path specified: 'input_files'
+2026-06-01 17:20:21,770 - ERROR - [WinError 3] The system cannot find the path specified: 'notes'
+2026-06-01 17:29:47,394 - INFO - Moved: bird.jpg
+2026-06-01 17:29:47,398 - INFO - Moved: vk1.jpg
+2026-06-01 18:33:02,151 - INFO - Total Files Moved: 0
+2026-06-01 18:37:00,054 - INFO - Total Files Moved: 0
+2026-06-01 18:42:15,401 - INFO - Moved: bird.jpg
+2026-06-01 18:42:15,416 - INFO - Moved: fruit.jpg
+2026-06-01 18:42:15,416 - INFO - Moved: vk1.jpg
+2026-06-01 18:42:15,416 - INFO - Total Files Moved: 3
+2026-06-01 18:48:24,075 - INFO - Total Files Moved: 0
+2026-06-01 18:49:58,705 - INFO - Total Files Moved: 0
+2026-06-01 18:50:56,624 - INFO - Moved: vk1.jpg
+2026-06-01 18:50:56,624 - INFO - Total Files Moved: 1
+2026-06-01 18:57:53,566 - INFO - Moved: 1.jpg
+2026-06-01 18:57:53,566 - INFO - Moved: bird.jpg
+2026-06-01 18:57:53,584 - INFO - Moved: vk1.jpg
