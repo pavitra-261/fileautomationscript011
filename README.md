@@ -1,4 +1,4 @@
-# File Organizer
+#FILE AUTOMATION SCRIPT
 
 ## Description
 
